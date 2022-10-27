@@ -4,6 +4,6 @@
     <title>$Title$</title>
 </head>
 <body>
-<%=doGet()%>
+$END$
 </body>
 </html>
