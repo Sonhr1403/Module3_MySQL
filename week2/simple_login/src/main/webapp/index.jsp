@@ -13,7 +13,7 @@
     }
 </style>
 <body>
-<form method="get" action="/login">
+<form method="post" action="/login">
     <div class="login">
         <h2>Login</h2>
         <label>
